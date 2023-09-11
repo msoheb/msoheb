@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msoheb
-- 👀 I’m interested in anything realted to Web or JavaScript
-- 🌱 I’m currently learning Python
+- 👀 Cloud Enthuisiat
+- 🌱 I’m currently learning more about Cloud and AWS Services
 - 💞️ I’m looking to collaborate on any project related to NodeJS or ReactJS
 - 📫 How to reach me... you are already on my github profile
 
