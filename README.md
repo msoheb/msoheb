@@ -24,7 +24,7 @@ I'm a passionate software developer with a strong background in React and Node.j
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=msoheb&show_icons=true&theme=dark)
 
 ## 📝 Latest Blog Posts
 
