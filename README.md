@@ -20,7 +20,7 @@ I'm a passionate software developer with a strong background in React and Node.j
 
 ## 🌐 Connect with Me
 
-- LinkedIn: (<a href="https://www.github.com" target="_blank">Soheb Mukadam</a>
+- LinkedIn: (<a href="https://www.linkedin.com/in/soheb-mukadam" target="_blank">Soheb Mukadam</a>
 )
 
 ## 📊 GitHub Stats
